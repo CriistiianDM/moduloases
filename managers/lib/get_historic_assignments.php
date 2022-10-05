@@ -37,9 +37,11 @@ module_loader('periods');
 
 // @ Todo: escribir la documentación
 $usage = "Put a one line summary of what the script does here.
+
 Usage:
     # php demo.php --paramname=<value>
     # php demo.php [--help|-h]
+
 Options:
     -h --help               Print this help.
     --paramname=<value>     Describe the parameter and the meaning of its values.
